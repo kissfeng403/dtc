@@ -1,7 +1,7 @@
 ﻿{
-  "versionCode":3,
-  "versionName":"1.0.1",
-  "content":"1.优化一部分功能#2.修改一些bug",
+  "versionCode":4,
+  "versionName":"1.0.2",
+  "content":"1.Optimize some functions#2.Modify some pages",
   "minSupport":1,	
   "url":"https://raw.githubusercontent.com/kissfeng403/dtc/master/management.apk"
 }
