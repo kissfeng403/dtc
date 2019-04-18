@@ -1,9 +1,7 @@
 ﻿{
-  "update": "Yes",
-  "new_version": "1.0.7",
-  "apk_file_url": "https://raw.githubusercontent.com/kissfeng403/dtc/master/management.apk",
-  "update_log": "1，增加新的UI。\r\n2，优化页面。",
-  "target_size": "5M",
-  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
-  "constraint": false
+  "versionCode":8,
+  "versionName":"1.0.7",
+  "content":"1.Optimize some functions#2.Modify some pages",
+  "minSupport":1,	
+  "url":"https://raw.githubusercontent.com/kissfeng403/dtc/master/management.apk"
 }
