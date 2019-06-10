@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode":2,
-  "versionName":"1.3.2",
+  "versionCode":9,
+  "versionName":"1.3.5",
   "content":"1.优化发邮件格式#2.Modify some pages",
   "minSupport":1,	
   "url":"https://raw.githubusercontent.com/kissfeng403/dtc/master/DTC_SMS.apk"
